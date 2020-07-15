@@ -1,0 +1,6 @@
+C:\Users\NikAlex\source\repos\WCF_CHAT\WCF_CHAT\bin\Debug\WCF_CHAT.dll.config
+C:\Users\NikAlex\source\repos\WCF_CHAT\WCF_CHAT\bin\Debug\WCF_CHAT.dll
+C:\Users\NikAlex\source\repos\WCF_CHAT\WCF_CHAT\bin\Debug\WCF_CHAT.pdb
+C:\Users\NikAlex\source\repos\WCF_CHAT\WCF_CHAT\obj\Debug\WCF_CHAT.csproj.CoreCompileInputs.cache
+C:\Users\NikAlex\source\repos\WCF_CHAT\WCF_CHAT\obj\Debug\WCF_CHAT.dll
+C:\Users\NikAlex\source\repos\WCF_CHAT\WCF_CHAT\obj\Debug\WCF_CHAT.pdb

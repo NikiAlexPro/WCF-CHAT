@@ -1,0 +1,14 @@
+C:\Users\NikAlex\source\repos\WCF_CHAT\ChatClient\bin\Debug\ChatClient.exe.config
+C:\Users\NikAlex\source\repos\WCF_CHAT\ChatClient\bin\Debug\ChatClient.exe
+C:\Users\NikAlex\source\repos\WCF_CHAT\ChatClient\bin\Debug\ChatClient.pdb
+C:\Users\NikAlex\source\repos\WCF_CHAT\ChatClient\obj\Debug\MainWindow.g.cs
+C:\Users\NikAlex\source\repos\WCF_CHAT\ChatClient\obj\Debug\App.g.cs
+C:\Users\NikAlex\source\repos\WCF_CHAT\ChatClient\obj\Debug\ChatClient_MarkupCompile.cache
+C:\Users\NikAlex\source\repos\WCF_CHAT\ChatClient\obj\Debug\ChatClient_MarkupCompile.lref
+C:\Users\NikAlex\source\repos\WCF_CHAT\ChatClient\obj\Debug\MainWindow.baml
+C:\Users\NikAlex\source\repos\WCF_CHAT\ChatClient\obj\Debug\ChatClient.g.resources
+C:\Users\NikAlex\source\repos\WCF_CHAT\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+C:\Users\NikAlex\source\repos\WCF_CHAT\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.cache
+C:\Users\NikAlex\source\repos\WCF_CHAT\ChatClient\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+C:\Users\NikAlex\source\repos\WCF_CHAT\ChatClient\obj\Debug\ChatClient.exe
+C:\Users\NikAlex\source\repos\WCF_CHAT\ChatClient\obj\Debug\ChatClient.pdb
